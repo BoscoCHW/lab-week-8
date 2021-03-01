@@ -79,7 +79,6 @@ p, ol, ul {
 .sidebar ul {
     list-style-type:none;
 }
-
 .self-intro {
     display: flex;
     flex-direction: row;
