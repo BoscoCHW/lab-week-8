@@ -42,12 +42,12 @@
 
 
 nav {
-    font-family: 'Sora', sans-serif;
     font-size: 1.5rem;
     position: sticky;
     top: 0rem;
 }
 nav ul {
+    font-family: 'Sora', sans-serif;
     list-style-type: none;
 }
 
